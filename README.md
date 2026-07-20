@@ -16,7 +16,14 @@
 ## 🚀 Current Goal
 - Strengthening Java Programming
 - Building Real Projects
-- Preparing for Internships
+- Preparing for Software & Hardware Engineering Roles
+
+## 📚 Current Focus
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- VLSI Fundamentals
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/vrushali-ambure-4aa1bb252
